@@ -1,1 +1,1 @@
-# Multi-Class-Arrhythmia-Diagnosis-with-Deep-Learning
+# Multi-Class-Arrhythmia-Diagnosis-and-classification-with-Deep-Learning
